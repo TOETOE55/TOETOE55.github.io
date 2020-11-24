@@ -1,9 +1,0 @@
-
-title: the blog
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-github_username: TOETOE55
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
