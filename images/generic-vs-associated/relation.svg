@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 relation.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:等距更纱黑体 SC;font-size:1.99999em}
+		.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:#000000;font-family:等距更纱黑体 SC;font-size:1.16666em}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(126.372,-263.399)">
+			<title>工作表.1</title>
+			<desc>Generic</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="82.3193" cy="556.896" width="164.64" height="76.7586"/>
+			<rect x="0" y="518.517" width="164.639" height="76.7586" class="st1"/>
+			<text x="40.32" y="564.1" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Generic</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(338.558,-263.399)">
+			<title>工作表.2</title>
+			<desc>Self</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="82.3193" cy="556.896" width="164.64" height="76.7586"/>
+			<rect x="0" y="518.517" width="164.639" height="76.7586" class="st1"/>
+			<text x="58.32" y="564.1" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Self</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(16.0866,-290.947)">
+			<title>工作表.3</title>
+			<desc>(</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="82.3193" cy="584.444" width="164.64" height="21.663"/>
+			<rect x="0" y="573.613" width="164.639" height="21.663" class="st3"/>
+			<text x="76.32" y="591.64" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>(</text>		</g>
+		<g id="shape6-10" v:mID="6" v:groupContext="shape" transform="translate(231.096,-290.947)">
+			<title>工作表.6</title>
+			<desc>,</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="82.3193" cy="584.444" width="164.64" height="21.663"/>
+			<rect x="0" y="573.613" width="164.639" height="21.663" class="st3"/>
+			<text x="76.32" y="591.64" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>,</text>		</g>
+		<g id="shape7-13" v:mID="7" v:groupContext="shape" transform="translate(446.02,-290.947)">
+			<title>工作表.7</title>
+			<desc>)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="82.3193" cy="584.444" width="164.64" height="21.663"/>
+			<rect x="0" y="573.613" width="164.639" height="21.663" class="st3"/>
+			<text x="76.32" y="591.64" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>)</text>		</g>
+		<g id="shape8-16" v:mID="8" v:groupContext="shape" transform="translate(614.889,-263.399)">
+			<title>工作表.8</title>
+			<desc>Associated</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="82.3193" cy="556.896" width="164.64" height="76.7586"/>
+			<rect x="0" y="518.517" width="164.639" height="76.7586" class="st1"/>
+			<text x="22.32" y="564.1" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Associated</text>		</g>
+		<g id="shape13-19" v:mID="13" v:groupContext="shape" transform="translate(492.075,-290.947)">
+			<title>工作表.13</title>
+			<desc>…N……1…</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="82.3193" cy="584.444" width="164.64" height="21.663"/>
+			<rect x="0" y="573.613" width="164.639" height="21.663" class="st3"/>
+			<text x="47.32" y="588.64" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>…N……1… </text>		</g>
+	</g>
+</svg>
