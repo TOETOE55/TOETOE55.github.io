@@ -2,6 +2,7 @@
 
 | title                                                        | date       |
 | ------------------------------------------------------------ | ---------- |
+| [Relens to Lens](https://toetoe55.github.io/post/2020-12-16-relens-to-lens) | 2020/12/16 |
 | [Monad in Rust 不是好文明](https://toetoe55.github.io/post/2020-11-26-monad-in-rust-is-not-a-good-culture) | 2020/11/26 |
 | [啥是Monad ](https://toetoe55.github.io/post/2020-11-24-WhatIsMonad.html) | 2020/11/24 |
 | [Generic Parameters v.s. Associated Types](https://toetoe55.github.io/post/2020-3-14-generic-vs-associated) | 2020/3/14  |
